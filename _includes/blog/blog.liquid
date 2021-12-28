@@ -1,6 +1,23 @@
 <div class="posts">
     {% unless paginator.posts %}
-    <article><section class="post-content"><p>There are no blog posts</p></section></article>
+    <article>
+      <section class="post-content">
+        <h2>This is test page of HIPEX</h2>
+        <h3>물질의 근원을 찾아서</h3>
+        <p>연구동기(Motivation)</p>
+        <ul>
+          <li>물질을 태양 중심온도의 10만 배 이상으로 가열하면 어떤 일이 일어날 것인가?</li>
+          <li>중성자별과 블랙홀 내부에서와 같은 고밀도 상태에서 물질은 어떻게 될것인가?</li>
+          <li>왜 양성자와 중성자의 질량은 그들을 구성하고 있는 쿼크들의 질량보다 100배 이상 클까?</li>
+          <li>핵을 구성하고 있는 양성자와 중성자 안에 속박되어 있는 쿼크들을 과연 자유롭게 해체시킬 수 있을 것인가?</li>
+        </ul>
+      <p>국제적 협업(Global Collaboration)</p>
+      <ul>
+        <li>BNL @ USA</li>
+        <li>CERN @ Switzerland</li>
+        <li>GSI @ Germany</li>
+      </ul>
+    </article>
     {% endunless %}
     {% for post in paginator.posts %}
     <div class="post-teaser">
