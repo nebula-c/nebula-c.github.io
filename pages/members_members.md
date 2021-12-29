@@ -1,8 +1,8 @@
 ---
 layout: mlay
 title: Members
-permalink: /members/
+permalink: /members_members/
 feature-img: "assets/img/test.png"
 ---
 
-{% include members.html %}
+{% include members_members.html %}
