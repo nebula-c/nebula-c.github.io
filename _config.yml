@@ -10,7 +10,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: Heavy Ion Physics ExperimentLab.  # Change Blog header text
-header_feature_image: assets/img/STAR_detector.jpeg
+header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
   Internal Page<a href="https://www.notion.so/hipex/Main-Board-4d0b5cacfa21403db3f380614e3bfd33">notion.so</a>
 
