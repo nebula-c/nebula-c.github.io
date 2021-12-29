@@ -3,9 +3,9 @@ layout: page
 title : HIPEx in News 
 permalink: /news/
 subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/computer.jpeg"
+feature-img: "assets/img/test.png"
 tags: [Page]
 ---
 
 Not yet...
-{% include portfolio.html %}
+{% include news.html %}

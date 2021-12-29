@@ -8,7 +8,5 @@ tags: [Page]
 ---
 
 Not yet...  
-These are just example photos.
 
-
-{% include gallery.html gallery_path=page.gallery_path %}
+{% include publication.html gallery_path=page.gallery_path %}
