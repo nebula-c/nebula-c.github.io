@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thesis & Publication
-subtitle: From the pexels folder
+#subtitle: From the pexels folder
 permalink: /publication/
 feature-img: "assets/img/test.png"
 gallery_path: "assets/img/pexels"
