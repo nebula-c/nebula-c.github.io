@@ -3,7 +3,8 @@ layout: page
 title: Thesis & Publication
 subtitle: From the pexels folder
 permalink: /publication/
-gallery_path: "assets/img/test.png"
+feature-img: "assets/img/test.png"
+gallery_path: "assets/img/pexels"
 tags: [Page]
 ---
 
