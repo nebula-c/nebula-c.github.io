@@ -8,6 +8,7 @@ gallery_path: "assets/img/pexels"
 tags: [Page]
 ---
 
-Not yet...  
+Not yet...<br>
+It will be update soon...
 
 {% include publication.html gallery_path=page.gallery_path %}
