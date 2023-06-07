@@ -9,7 +9,7 @@ avatar: assets/img/HIPEx_Logo_White_background.png                         # Emp
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Heavy Ion Physics Experiment Lab.  # Change Blog header text
+header_text: Heavy Ion Physics Experiment Lab. Testpage  # Change Blog header text
 header_feature_image: assets/img/test.png
 footer_text: >
   Internal Page is <a href="https://www.notion.so/hipex/Main-Board-4d0b5cacfa21403db3f380614e3bfd33">notion.so</a>
